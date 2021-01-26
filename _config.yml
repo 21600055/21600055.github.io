@@ -93,7 +93,7 @@ social:
   - name: GitHub
     icon: github
     username: "21600055"
-	url: https://github.com/21600055
+	url: "https://github.com/21600055"
     desc: Fork me on GitHub
     share: false
 
