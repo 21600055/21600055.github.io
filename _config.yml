@@ -78,21 +78,21 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username:
-    url: 
+	# username:
+	# url: 
     desc: Follow me on Twitter
     share: false
 
   - name: Facebook
     icon: facebook
-    username: 
-    url: ""
+	# username: 
+	# url: ""
     desc: Friend me on Facebook
     share: false
 
   - name: GitHub
     icon: github
-    username: 21600055@handong.edu
+    username: 21600055
 	url: https://github.com/21600055
     desc: Fork me on GitHub
     share: false
