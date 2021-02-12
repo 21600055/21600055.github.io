@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>센트라니움</title>
+    <description>메이플 219 제논 ERC 재이수 
+</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Feb 2021 21:45:38 +0900</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2021 21:45:38 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>스택(Stack) 구조</title>
+        <description>&lt;ul&gt; &lt;li&gt;자료구조 카테고리: &lt;a href=&quot;https://21600055.github.io/category/자료구조-data-structures/&quot;&gt;https://21600055.github.io/category/자료구조-data-structures/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;1개요&quot;&gt;1.개요&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Stack&lt;/strong&gt;은 삽입과 삭제가 &lt;strong&gt;top&lt;/strong&gt;이라 불리는 종점에서 각각 작동하는 ordered list 자료구조이다. &lt;del&gt;ordered list를 한글로는 뭔지 모름&lt;/del&gt; &lt;strong&gt;LIFO(Last-In-First-Out)&lt;/strong&gt;구조로, 마지막에 들어온 것이 첫번째로 나간다....</description>
+        <pubDate>Wed, 03 Feb 2021 00:00:00 +0900</pubDate>
+        <link>http://0.0.0.0:4000/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(data_structures)/2021/02/03/Stack.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(data_structures)/2021/02/03/Stack.html</guid>
+        
+        
+        <category>자료구조(Data_Structures)</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different...</description>
+        <pubDate>Mon, 20 Apr 2015 17:43:59 +0900</pubDate>
+        <link>http://0.0.0.0:4000/jekyll/2015/04/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/2015/04/20/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>http://0.0.0.0:4000/jekyll/2015/04/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/2015/04/19/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Dummy Post</title>
+        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
+        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
+        <link>http://0.0.0.0:4000/jekyll/2015/04/19/dummy.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/2015/04/19/dummy.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
