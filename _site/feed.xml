@@ -6,32 +6,19 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2021 21:15:45 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2021 21:15:45 +0900</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2021 22:32:14 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2021 22:32:14 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
-    
-      <item>
-        <title>test</title>
-        <description>
-</description>
-        <pubDate>Wed, 17 Feb 2021 00:00:00 +0900</pubDate>
-        <link>http://0.0.0.0:4000/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9/2021/02/17/test.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9/2021/02/17/test.html</guid>
-        
-        
-        <category>테스트용</category>
-        
-      </item>
     
       <item>
         <title>스택(Stack) 구조</title>
         <description>&lt;ul&gt; &lt;li&gt;자료구조 카테고리: &lt;a href=&quot;https://21600055.github.io/category/자료구조-data-structures/&quot;&gt;https://21600055.github.io/category/자료구조-data-structures/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;1개요&quot;&gt;1.개요&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Stack&lt;/strong&gt;은 삽입과 삭제가 &lt;strong&gt;top&lt;/strong&gt;이라 불리는 종점에서 각각 작동하는 ordered list 자료구조이다. &lt;del&gt;ordered list를 한글로는 뭔지 모름&lt;/del&gt; &lt;strong&gt;LIFO(Last-In-First-Out)&lt;/strong&gt;구조로, 마지막에 들어온 것이 첫번째로 나간다....</description>
         <pubDate>Wed, 03 Feb 2021 00:00:00 +0900</pubDate>
-        <link>http://0.0.0.0:4000/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(data_structures)/2021/02/03/Stack.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(data_structures)/2021/02/03/Stack.html</guid>
+        <link>http://0.0.0.0:4000/data_structures/2021/02/03/Stack.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/data_structures/2021/02/03/Stack.html</guid>
         
         
-        <category>자료구조(Data_Structures)</category>
+        <category>Data_Structures</category>
         
       </item>
     
