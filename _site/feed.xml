@@ -6,9 +6,22 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2021 21:45:38 +0900</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2021 21:45:38 +0900</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2021 21:15:45 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2021 21:15:45 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>test</title>
+        <description>
+</description>
+        <pubDate>Wed, 17 Feb 2021 00:00:00 +0900</pubDate>
+        <link>http://0.0.0.0:4000/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9/2021/02/17/test.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9/2021/02/17/test.html</guid>
+        
+        
+        <category>테스트용</category>
+        
+      </item>
     
       <item>
         <title>스택(Stack) 구조</title>
