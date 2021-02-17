@@ -6,9 +6,26 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2021 22:49:46 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2021 22:49:46 +0900</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2021 23:01:38 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2021 23:01:38 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>카테고리 test</title>
+        <description>&lt;p&gt;잊을 까봐 적는 개인 문서&lt;/p&gt;
+
+&lt;p&gt;카테고리 테스트용 문서&lt;/p&gt;
+
+&lt;p&gt;그 _site/category/data-structures/index.html을 category/Data_Structures로 복사 붙여 넣기 하면 됨&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2021 00:00:00 +0900</pubDate>
+        <link>http://0.0.0.0:4000/data_structures/2021/02/17/test.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/data_structures/2021/02/17/test.html</guid>
+        
+        
+        <category>Data_Structures</category>
+        
+      </item>
     
       <item>
         <title>스택(Stack) 구조</title>
