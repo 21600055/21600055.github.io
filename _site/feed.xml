@@ -6,9 +6,21 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2021 23:01:38 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2021 23:01:38 +0900</lastBuildDate>
+    <pubDate>Fri, 05 Mar 2021 01:25:20 +0900</pubDate>
+    <lastBuildDate>Fri, 05 Mar 2021 01:25:20 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>큐(Queue) 구조</title>
+        <description>&lt;h1 id=&quot;1개요&quot;&gt;1.개요&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Queue&lt;/strong&gt;는 스택과는 다르게 양끝에서 삽입과 삭제가 각각 일어나는 자료구조다. 앞에 있는 것은 &lt;strong&gt;Front&lt;/strong&gt;, 뒤에 있는 것은 &lt;strong&gt;Rear&lt;/strong&gt;라고 한다. &lt;strong&gt;FIFO(First-In-First-Out)&lt;/strong&gt;구조로, 스택과는 다르게 먼저온 것이 먼저 나간다. 밑의 이미지를 보면...</description>
+        <pubDate>Tue, 02 Mar 2021 00:00:00 +0900</pubDate>
+        <link>http://0.0.0.0:4000/data_structures/2021/03/02/Queue.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/data_structures/2021/03/02/Queue.html</guid>
+        
+        
+        <category>Data_Structures</category>
+        
+      </item>
     
       <item>
         <title>카테고리 test</title>
