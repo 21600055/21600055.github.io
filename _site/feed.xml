@@ -6,9 +6,21 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Mar 2021 01:53:25 +0900</pubDate>
-    <lastBuildDate>Thu, 11 Mar 2021 01:53:25 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Mar 2021 01:14:58 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Mar 2021 01:14:58 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>연결리스트(Linked_List) 구조</title>
+        <description>&lt;h1 id=&quot;1-개요&quot;&gt;1. 개요&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;List는 중복은 허용되나 순서가 지켜지는&lt;/strong&gt;자료구조이다. 2가지로 나뉘는데 우리가 잘 아는 &lt;strong&gt;Arraylist&lt;/strong&gt;와 이번에 다룰 &lt;strong&gt;Linked List&lt;/strong&gt;가 있다.&lt;/p&gt; &lt;p&gt;C에서 static array들을 써왔다면 몇몇 불편한 점을 겪었을 것이다. 예를 들면...</description>
+        <pubDate>Wed, 17 Mar 2021 00:00:00 +0900</pubDate>
+        <link>http://0.0.0.0:4000/data_structures/2021/03/17/Linked_List.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/data_structures/2021/03/17/Linked_List.html</guid>
+        
+        
+        <category>Data_Structures</category>
+        
+      </item>
     
       <item>
         <title>큐(Queue) 구조</title>
