@@ -105,6 +105,6 @@ node 타입의 **head** 변수를 하나 만들어준다.
 
 * Linked Queue:
 
-    <https://github.com/21600055/DataStructures/blob/main/src/main/java/DataStructures/Linked_Stack.java>
+<https://github.com/21600055/DataStructures/blob/main/src/main/java/DataStructures/Linked_Queue.java>
 
 개인적으로 정리한 자료구조입니다. 수정되거나 건의 할 사항이 있으면, <21600055@handong.edu>로 메일 바랍니다.

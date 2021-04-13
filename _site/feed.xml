@@ -2,13 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>센트라니움</title>
-    <description>메이플 219 제논 ERC 재이수 
+    <description>메이플 228 제논 ERC 재이수 
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Mar 2021 01:14:58 +0900</pubDate>
-    <lastBuildDate>Thu, 18 Mar 2021 01:14:58 +0900</lastBuildDate>
+    <pubDate>Wed, 14 Apr 2021 02:01:28 +0900</pubDate>
+    <lastBuildDate>Wed, 14 Apr 2021 02:01:28 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>트리(Tree) 구조</title>
+        <description>&lt;h1 id=&quot;1-개요&quot;&gt;1. 개요&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Tree&lt;/strong&gt;는 말 그대로 나무 비스무리한 구조긴한데, 현실 나무 처럼 위로 뻗는게 아니라 가계도처럼 위에서 아래로 뻗는다고 생각하면된다.&lt;/p&gt; &lt;p&gt;Tree는 &lt;strong&gt;Cycle (어느 지점에서 출발해서 다시 출발한 곳으로 돌아오는것)&lt;/strong&gt; 이...</description>
+        <pubDate>Mon, 05 Apr 2021 00:00:00 +0900</pubDate>
+        <link>http://0.0.0.0:4000/data_structures/2021/04/05/Tree.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/data_structures/2021/04/05/Tree.html</guid>
+        
+        
+        <category>Data_Structures</category>
+        
+      </item>
     
       <item>
         <title>연결리스트(Linked_List) 구조</title>
