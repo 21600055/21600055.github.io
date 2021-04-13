@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: 센트라니움
 subtitle: "ERC 재이수의 코딩일지"
-email: "21600055@hadnong.edu"
+email: "21600055@handong.edu"
 name: 김 동규
 description: >
   메이플 228 제논 ERC 재이수 
@@ -81,28 +81,28 @@ social:
     username: Twitter
     url: https://twitter.com
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: facebook
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
     username: 21600055
     url: https://github.com/21600055
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
     username: linkedin
     url: https://www.linkedin.com
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
@@ -199,6 +199,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/21600055"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:21600055/21600055.github.io.git"
